@@ -1,0 +1,8 @@
+# Ignore Karate and TestNG output
+target/
+karate-reports/
+test-output/
+Reports/
+*.html
+*.xml
+*.png
