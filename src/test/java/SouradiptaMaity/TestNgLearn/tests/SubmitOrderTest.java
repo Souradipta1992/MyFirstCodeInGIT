@@ -13,7 +13,7 @@ public class SubmitOrderTest extends BaseTest {
 	@Test
 	public void SubmitOrder() throws InterruptedException, IOException {
 
-		//TESTING GIT Second
+		//TESTING GIT Second Clean Code
 
 		// Login to URL
 		ProductCatalogue productCatalogue = landingPage.loginIntoProduct("souradiptaus@gmail.com", "Password1!");
